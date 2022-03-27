@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bhashi2
+- 👋 Hi, I’m Bilal Hashim, a student at University of Illinois at Chicago
 - 👀 I’m interested in computer science and coding
-- 🌱 I’m currently learning game dev and front computer science
-- 💞️ I’m looking to find an internship
+- 🌱 I’m currently learning game dev and front-end coding alongside general computer science
+- 💞️ I’m looking to find an internship to work on a coding project
 - 📫 How to reach me: bhashi2@uic.edu (school) and bilalhashim3567@gmail.com (personal)
 
 <!---
